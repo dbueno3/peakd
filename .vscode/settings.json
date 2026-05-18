@@ -1,0 +1,8 @@
+{
+  "python.defaultInterpreterPath": "/Users/dbueno3/peakd/.venv/bin/python3.12",
+  "python.analysis.extraPaths": [
+    "/Users/dbueno3/peakd/.venv/lib/python3.12/site-packages"
+  ],
+  "python.analysis.pythonPath": "/Users/dbueno3/peakd/.venv/bin/python3.12",
+  "pyrefly.pythonInterpreter": "/Users/dbueno3/peakd/.venv/bin/python3.12"
+}
